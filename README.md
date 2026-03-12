@@ -20,9 +20,9 @@ https://burnout-risk-predictor.streamlit.app/
 
 Example:
 
-![App Interface](assets/Screenshot 2026-03-12 at 1.37.33 PM.png)
-/Users/rachanadutta/projects/burnout-risk-prediction/assets/Screenshot 2026-03-12 at 1.37.49 PM.png
-/Users/rachanadutta/projects/burnout-risk-prediction/assets/Screenshot 2026-03-12 at 1.38.03 PM.png
+![App Interface](assets/interface1.png)
+![App Interface](assets/interface2.png)
+![App Interface](assets/interface3.png)
 
 ---
 
@@ -233,4 +233,5 @@ It does not provide medical or psychological diagnosis.
 
 Rachana Dutta
 BTech Computer Science
+
 
